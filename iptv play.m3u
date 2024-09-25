@@ -1,4 +1,11 @@
 #EXTM3U
-#EXTGRP: Новости
-#EXTINF:-1, YKN NEWS
-2024-09-18 23-27-47.mp4
+#EXTGRP: Exclusive
+#EXTINF:-1, Эксклюзив с ютуба
+forvip.mp4 
+#EXTGRP: Exclusive
+#EXTINF:-1, Топси
+shivorotnavivorot.mp4
+#EXTGRP: Exclusive
+#EXTINF:-1,Ужастики
+http://8.210.163.9/
+
