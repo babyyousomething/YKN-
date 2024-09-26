@@ -1,10 +1,13 @@
 #EXTM3U
 #EXTGRP: Exclusive
-#EXTINF:-1, Эксклюзив с ютуба
-http://8.210.163.7/123/vipandexclusive/forvip.mp4
+#EXTINF:-1 Эксклюзив с ютуба
+http://8.210.163.7/123/vipandecxlusive/forvip.mp4
 #EXTGRP: Exclusive
-#EXTINF:-1, Топси
+#EXTINF:-1 Топси
 http://8.210.163.7/123/vipandecxlusive/shivorotnavivorot.mp4
 #EXTGRP: Exclusive
-#EXTINF:-1,Ужастики
+#EXTINF:-1 Ужастики
 http://8.210.163.7/123/vipandecxlusive/The.Conjuring.2013.HDRip.AVC.by.Kinoradiomagia.mkv
+#EXTINF:-1 Детский канал
+http://8.210.163.7/123/vipandecxlusive/KIDCHANNEL.mp4
+
