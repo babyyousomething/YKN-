@@ -1,11 +1,22 @@
 #EXTM3U
-#EXTGRP: Группа
-#EXTINF:-1, Канал 1
-http://8.210.163.7/FREE%20C/idontfirst1080p.mp4
-#EXTINF:-1, Группа 2
-#EXTINF:-1,
-http://8.210.163.7/Video
-#EXTINF:-1, 
+#EXTGRP: Exclusive
+#EXTINF:-1, Эксклюзив с ютуба
+http://8.210.163.9:8080/FREE%20C/forvip.mp4
+#EXTGRP: Exclusive
+#EXTINF:-1, Топси
+http://8.210.163.9:8080/FREE%20C/shivorotnavivorot.mp4
+#EXTGRP: Exclusive
+#EXTINF:-1, Ужастики
+http://8.210.163.9:8080/FREE%20C/The.Conjuring.2013.HDRip.AVC.by.Kinoradiomagia.mkv
+#EXTINF:-1, Детский канал
+http://8.210.163.9:8080/FREE%20C/KIDCHANNEL.mp4
+#EXTINF:-1, IdonTFIrst
+http://8.210.163.9:8080/FREE%20C/idontfirst1080p.mp4
+#EXTINF:-1, Flazin
+http://8.210.163.9:8080/FREE%20C/YOUSIT.mp4
+#EXTINF:-1, Новости
+http://8.210.163.9:8080/FREE%20C/BarkesNEws.mp4
+
 
 
 
